@@ -188,9 +188,9 @@ and data technologies.
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f43e.png" width="56"/>
+<img src="https://loremflickr.com/400/220/dog,pet,adoption" width="100%" style="border-radius:8px"/>
 
-### Pet Adoption
+### 🐾 Pet Adoption
 
 `MERN` `REST API` `MongoDB`
 
@@ -203,9 +203,9 @@ Pet adoption platform to help users discover and adopt pets — listings, search
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/26bd.png" width="56"/>
+<img src="https://loremflickr.com/400/220/soccer,sports,stadium" width="100%" style="border-radius:8px"/>
 
-### AK Sports
+### ⚽ AK Sports
 
 `React` `Node.js` `MongoDB`
 
@@ -221,9 +221,9 @@ Sports management app covering players, events, scores and team functionality.
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3e0.png" width="56"/>
+<img src="https://loremflickr.com/400/220/house,apartment,interior" width="100%" style="border-radius:8px"/>
 
-### PG Finder
+### 🏠 PG Finder
 
 `React` `JavaScript` `CSS`
 
@@ -236,9 +236,9 @@ Accommodation search platform with location filters, price filters and amenity s
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4bc.png" width="56"/>
+<img src="https://loremflickr.com/400/220/laptop,coding,workspace" width="100%" style="border-radius:8px"/>
 
-### Developer Portfolio
+### 💼 Developer Portfolio
 
 `React` `TypeScript` `Advanced UI/UX`
 
