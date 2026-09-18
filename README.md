@@ -188,11 +188,9 @@ and data technologies.
 <tr>
 <td width="50%" valign="top" align="center">
 
-### 🐾 Pet Adoption
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f43e.png" width="56"/>
 
-<a href="https://github.com/Abhii-22/animaladopt">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhii-22&repo=animaladopt&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA"/>
-</a>
+### Pet Adoption
 
 `MERN` `REST API` `MongoDB`
 
@@ -205,11 +203,9 @@ Pet adoption platform to help users discover and adopt pets — listings, search
 </td>
 <td width="50%" valign="top" align="center">
 
-### ⚽ AK Sports
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/26bd.png" width="56"/>
 
-<a href="https://github.com/Abhii-22/ak">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhii-22&repo=ak&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA"/>
-</a>
+### AK Sports
 
 `React` `Node.js` `MongoDB`
 
@@ -225,11 +221,9 @@ Sports management app covering players, events, scores and team functionality.
 <tr>
 <td width="50%" valign="top" align="center">
 
-### 🏠 PG Finder
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3e0.png" width="56"/>
 
-<a href="https://github.com/Abhii-22/PGweb">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhii-22&repo=PGweb&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA"/>
-</a>
+### PG Finder
 
 `React` `JavaScript` `CSS`
 
@@ -242,11 +236,9 @@ Accommodation search platform with location filters, price filters and amenity s
 </td>
 <td width="50%" valign="top" align="center">
 
-### 💼 Developer Portfolio
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4bc.png" width="56"/>
 
-<a href="https://github.com/Abhii-22/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhii-22&repo=portfolio&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA"/>
-</a>
+### Developer Portfolio
 
 `React` `TypeScript` `Advanced UI/UX`
 
