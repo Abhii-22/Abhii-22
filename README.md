@@ -1,18 +1,14 @@
-<!-- ========================================================= -->
-
-<!--                    ABHISHEK | GITHUB                      -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-<!-- HERO -->
+<!-- ===================== HERO ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,65:1E3A8A,100:2563EB&height=280&section=header&text=ABHISHEK&fontSize=72&fontColor=FFFFFF&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20REACT%20%E2%80%A2%20NODE.JS&descAlignY=55&descSize=19&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0F172A,70:1E3A8A,100:2563EB&height=260&section=header&text=ABHISHEK&fontSize=68&fontColor=FFFFFF&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20REACT%20%E2%80%A2%20NODE.JS&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+Node.js;Building+Real-World+Applications;Creating+Modern+UI%2FUX;Learning+%7C+Building+%7C+Improving" />
+<br>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+Node.js;Building+Real-World+Applications;Creating+Modern+UI%2FUX;Learning+%7C+Building+%7C+Improving" />
+
+<br><br>
 
 <a href="https://github.com/Abhii-22">
 <img src="https://img.shields.io/github/followers/Abhii-22?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563EB"/>
@@ -22,68 +18,132 @@
 <img src="https://img.shields.io/badge/PROJECTS-28-1E3A8A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Abhii-22&style=for-the-badge&label=PROFILE+VIEWS&color=2563EB"/>
+<img src="https://komarev.com/ghpvc/?username=Abhii-22&label=PROFILE+VIEWS&style=for-the-badge&color=2563EB"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=3" width="90%"/>
 
 </div>
 
-<!-- ========================================================= -->
+<br>
 
-<!--                     ABOUT ME                              -->
+<!-- ===================== ABOUT ===================== -->
 
-<!-- ========================================================= -->
+# 👋 Hello, I'm Abhishek
 
-## 👋 About Me
+<div align="center">
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/Developer.gif"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Frontend+%2B+Backend+%2B+Mobile;I+build+real-world+applications;Turning+ideas+into+working+software"/>
 
-### Hi, I'm Abhishek 👨‍💻
+<br><br>
 
-I'm a **Full Stack Developer** passionate about creating practical and user-friendly applications.
+I'm a **Full Stack Developer** who enjoys building practical,
+scalable and user-friendly applications.
 
-I enjoy turning ideas into working products using modern web and mobile technologies.
+I mainly work with **React, JavaScript, Node.js and MongoDB**
+while continuously expanding my knowledge in backend, mobile
+and data technologies.
+
+</div>
+
+<br>
+
+<div align="center">
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│       💡 IDEA                                │
-│          ↓                                   │
-│       🎨 DESIGN                              │
-│          ↓                                   │
-│       ⚛️ DEVELOP                             │
-│          ↓                                   │
-│       🧪 TEST                                │
-│          ↓                                   │
-│       🚀 DEPLOY                              │
-│          ↓                                   │
-│       🔁 IMPROVE                             │
-│                                              │
-└──────────────────────────────────────────────┘
+                    💡 IDEA
+                       │
+                       ▼
+                  🎨 DESIGN
+                       │
+                       ▼
+                  ⚛️ DEVELOP
+                       │
+                       ▼
+                   🧪 TEST
+                       │
+                       ▼
+                  🚀 DEPLOY
+                       │
+                       ▼
+                  🔁 IMPROVE
 ```
 
-### ⚡ What I Enjoy
+</div>
 
-* 🎨 Building modern interfaces
-* ⚛️ Creating React applications
-* ⚙️ Developing backend APIs
-* 📱 Building mobile applications
-* 🗄️ Working with databases
-* 🚀 Turning real problems into software
+---
 
-<br clear="right"/>
+<!-- ===================== WHAT I DO ===================== -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+# 🚀 What I Do
 
-<!-- ========================================================= -->
+<table width="100%">
+<tr>
 
-<!--                     TECH STACK                            -->
+<td width="50%" valign="top">
 
-<!-- ========================================================= -->
+## 🎨 Frontend Development
 
-# 🛠️ Technology Universe
+* ⚛️ React
+* JavaScript
+* Responsive UI/UX
+* Component-based architecture
+* REST API integration
+* Mobile-friendly interfaces
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚙️ Backend Development
+
+* 🟢 Node.js
+* Express.js
+* REST APIs
+* Authentication
+* Database integration
+* Server-side application logic
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+## 📱 Application Development
+
+* Web applications
+* React Native applications
+* Attendance systems
+* Sports applications
+* Business applications
+
+</td>
+
+<td valign="top">
+
+## 📊 Data & Learning
+
+* 🐍 Python
+* SQL
+* Data Engineering
+* Data Analysis
+* Problem solving
+* Continuous learning
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -91,25 +151,25 @@ I enjoy turning ideas into working products using modern web and mobile technolo
 
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css&perline=5"/>
 
-<br/><br/>
+<br><br>
 
 ### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=5"/>
 
-<br/><br/>
+<br><br>
 
 ### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&perline=5"/>
 
-<br/><br/>
+<br><br>
 
 ### 🗄️ Database
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=5"/>
 
-<br/><br/>
+<br><br>
 
 ### 🔧 Tools
 
@@ -117,41 +177,15 @@ I enjoy turning ideas into working products using modern web and mobile technolo
 
 </div>
 
-<!-- ========================================================= -->
+---
 
-<!--                     WHAT I BUILD                          -->
-
-<!-- ========================================================= -->
-
-# 🚀 What I Build
-
-<div align="center">
-
-|         🧩 Area        | ⚡ What I Build                             |
-| :--------------------: | :----------------------------------------- |
-|     🎨 **Frontend**    | Interactive React applications             |
-|     ⚙️ **Backend**     | REST APIs & server-side systems            |
-|      📱 **Mobile**     | React Native applications                  |
-|    🗄️ **Database**    | MongoDB & MySQL systems                    |
-|  🔐 **Authentication** | Login & user management                    |
-| 📍 **Real-World Apps** | Attendance, sports & business applications |
-|       📊 **Data**      | Python, SQL & data engineering learning    |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<!-- ========================================================= -->
-
-<!--                  FEATURED PROJECTS                        -->
-
-<!-- ========================================================= -->
+<!-- ===================== PROJECTS ===================== -->
 
 # 🚀 Featured Projects
 
 <div align="center">
 
-### 🐾 PET ADOPTION
+## 🐾 PET ADOPTION
 
 <a href="https://github.com/Abhii-22/animaladopt">
 
@@ -159,15 +193,25 @@ I enjoy turning ideas into working products using modern web and mobile technolo
 
 </a>
 
-**MERN • REST API • MongoDB • Responsive UI**
+### MERN • REST API • MongoDB
 
-Pet adoption platform with listings, searching, filtering and user functionality.
+Pet adoption platform designed to help users discover and adopt pets.
 
-<br/>
+**Features**
+
+`Pet Listings` `Search` `Filtering` `User Functions` `API Integration`
+
+<br>
+
+<a href="https://github.com/Abhii-22/animaladopt">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br><br>
 
 ---
 
-### ⚽ AK SPORTS
+## ⚽ AK SPORTS
 
 <a href="https://github.com/Abhii-22/ak">
 
@@ -175,15 +219,25 @@ Pet adoption platform with listings, searching, filtering and user functionality
 
 </a>
 
-**React • Node.js • MongoDB • Mobile**
+### React • Node.js • MongoDB
 
 Sports management application focused on players, events and sports functionality.
 
-<br/>
+**Features**
+
+`Player Management` `Events` `Sports Management` `Score Functionality`
+
+<br>
+
+<a href="https://github.com/Abhii-22/ak">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br><br>
 
 ---
 
-### 🏠 PG FINDER
+## 🏠 PG FINDER
 
 <a href="https://github.com/Abhii-22/PGweb">
 
@@ -191,44 +245,74 @@ Sports management application focused on players, events and sports functionalit
 
 </a>
 
-**React • JavaScript • CSS**
+### React • JavaScript • CSS
 
-Accommodation search platform with filtering and responsive UI.
+Accommodation search platform designed to help users find suitable PGs.
 
-<br/>
+**Features**
+
+`Search` `Location Filter` `Price Filter` `Amenities` `Responsive UI`
+
+<br>
+
+<a href="https://github.com/Abhii-22/PGweb">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br><br>
 
 ---
 
-### 📍 EMPLOYEE ATTENDANCE
+## 📍 EMPLOYEE ATTENDANCE
 
-**React Native • Expo • Location • Camera • Database**
+<img src="https://skillicons.dev/icons?i=react,nodejs"/>
 
-A real-world attendance application with:
+### React Native • Expo • Location • Camera
+
+Real-world employee attendance application.
+
+<br>
 
 ```text
-📍 Location Verification
-        ↓
-📸 Selfie Capture
-        ↓
-🟢 Punch In
-        ↓
-☕ Lunch Break
-        ↓
-🔴 Punch Out
-        ↓
-📊 Attendance History
-        ↓
-👨‍💼 Admin Management
+┌──────────────────────────────┐
+│       📱 LOGIN               │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│       📍 LOCATION CHECK      │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│       📸 SELFIE              │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│       🟢 PUNCH IN            │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│       ☕ LUNCH BREAK         │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│       🔴 PUNCH OUT           │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│       📊 ATTENDANCE          │
+└──────────────────────────────┘
 ```
 
-Features include multiple office/college locations, selfie attendance,
-working-hour calculation and admin inspection.
+**Features**
 
-<br/>
+`Location Verification` `Selfie Attendance` `Punch In/Out`
+`Lunch Deduction` `Multiple Locations` `Admin Management`
+
+<br><br><br>
 
 ---
 
-### 💼 DEVELOPER PORTFOLIO
+## 💼 DEVELOPER PORTFOLIO
 
 <a href="https://github.com/Abhii-22/portfolio">
 
@@ -236,117 +320,67 @@ working-hour calculation and admin inspection.
 
 </a>
 
-**React • TypeScript • Advanced UI/UX**
+### React • TypeScript • Advanced UI/UX
 
-Interactive portfolio focused on modern design, animation and project presentation.
+Modern portfolio focused on interactive design, animations and project presentation.
+
+<br>
+
+<a href="https://github.com/Abhii-22/portfolio">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
-<!-- ========================================================= -->
+---
 
-<!--                  PROJECT PIPELINE                         -->
+<!-- ===================== DEVELOPMENT FLOW ===================== -->
 
-<!-- ========================================================= -->
-
-# 🧠 My Development Pipeline
+# 🧠 My Development Flow
 
 <div align="center">
 
-```text
-                    ┌───────────────┐
-                    │      💡       │
-                    │     IDEA      │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │      🎨       │
-                    │     UI/UX     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │      ⚛️       │
-                    │   FRONTEND    │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │      ⚙️       │
-                    │    BACKEND    │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │      🗄️       │
-                    │   DATABASE    │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │      🚀       │
-                    │    DEPLOY     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │      🔁       │
-                    │   IMPROVE     │
-                    └───────────────┘
-
-```
+<table>
+<tr>
+<td align="center">💡<br><b>IDEA</b></td>
+<td>→</td>
+<td align="center">🎨<br><b>DESIGN</b></td>
+<td>→</td>
+<td align="center">⚛️<br><b>CODE</b></td>
+<td>→</td>
+<td align="center">🧪<br><b>TEST</b></td>
+<td>→</td>
+<td align="center">🚀<br><b>DEPLOY</b></td>
+</tr>
+</table>
 
 </div>
 
-<!-- ========================================================= -->
+---
 
-<!--                    GITHUB ANALYTICS                       -->
-
-<!-- ========================================================= -->
+<!-- ===================== ANALYTICS ===================== -->
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhii-22&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1" height="190"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abhii-22&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii-22&layout=compact&hide_border=true&theme=transparent&title_color=60A5FA&text_color=CBD5E1" height="190"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii-22&layout=compact&hide_border=true&theme=transparent&title_color=60A5FA&text_color=CBD5E1" height="180"/>
 
-<br/><br/>
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Abhii-22&theme=transparent&hide_border=true&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8" width="700"/>
 
-<br/><br/>
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhii-22&bg_color=00000000&color=60A5FA&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+---
 
-<!-- ========================================================= -->
-
-<!--                  3D CONTRIBUTIONS                         -->
-
-<!-- ========================================================= -->
-
-# 🧊 3D Contribution Universe
-
-<div align="center">
-
-<!--START_YOSHI389111_3D_CONTRIB-->
-
-<!--END_YOSHI389111_3D_CONTRIB-->
-
-</div>
-
-<p align="center">
-
-<i>
-My contribution history transformed into an isometric 3D landscape.
-</i>
-
-</p>
-
-<!-- ========================================================= -->
-
-<!--                     SNAKE                                  -->
-
-<!-- ========================================================= -->
+<!-- ===================== CONTRIBUTIONS ===================== -->
 
 # 🐍 Contribution Snake
 
@@ -356,76 +390,107 @@ My contribution history transformed into an isometric 3D landscape.
 
 </div>
 
-<!-- ========================================================= -->
+---
 
-<!--                     TROPHIES                              -->
+<!-- ===================== TROPHIES ===================== -->
 
-<!-- ========================================================= -->
-
-# 🏆 Achievements
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhii-22&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=2&column=4" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Abhii-22&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="100%"/>
 
 </div>
 
-<!-- ========================================================= -->
+---
 
-<!--                     CURRENT FOCUS                         -->
-
-<!-- ========================================================= -->
+<!-- ===================== CURRENT FOCUS ===================== -->
 
 # 🎯 Current Focus
 
 <div align="center">
 
-|     🔨 BUILDING     |  📚 LEARNING  |     🚀 EXPLORING     |
-| :-----------------: | :-----------: | :------------------: |
-|      React Apps     |     Python    |     System Design    |
-|     Node.js APIs    |      SQL      |   Data Engineering   |
-|     Mobile Apps     | Data Analysis |     Better UI/UX     |
-| Real-World Projects |    Backend    | Advanced Development |
+<table width="90%">
+
+<tr>
+
+<td align="center">
+⚛️
+<br>
+<b>Advanced React</b>
+</td>
+
+<td align="center">
+🟢
+<br>
+<b>Node.js</b>
+</td>
+
+<td align="center">
+📱
+<br>
+<b>React Native</b>
+</td>
+
+<td align="center">
+🚀
+<br>
+<b>Real Projects</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+🐍
+<br>
+<b>Python</b>
+</td>
+
+<td align="center">
+🗄️
+<br>
+<b>SQL</b>
+</td>
+
+<td align="center">
+📊
+<br>
+<b>Data Engineering</b>
+</td>
+
+<td align="center">
+🧩
+<br>
+<b>System Design</b>
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-
-```text
-██████████████████████████████████████████████████
-█                                                █
-█        BUILD  •  LEARN  •  CREATE  •  GROW     █
-█                                                █
-██████████████████████████████████████████████████
-```
-
-</div>
-
-<!-- ========================================================= -->
-
-<!--                  DEVELOPER PHILOSOPHY                     -->
-
-<!-- ========================================================= -->
+<!-- ===================== PHILOSOPHY ===================== -->
 
 # 💡 Developer Philosophy
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1800&color=60A5FA&center=true&vCenter=true&width=800&lines=Don't+just+write+code.;Build+something+useful.;Solve+real+problems.;Keep+learning.;Keep+building."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=800&lines=Don't+just+write+code.;Build+something+useful.;Solve+real+problems.;Keep+learning.;Keep+building.;Keep+improving."/>
 
-<br/><br/>
+<br><br>
 
 > **"Don't just write code. Build something useful."**
 
 </div>
 
-<!-- ========================================================= -->
+---
 
-<!--                    CONNECT                                -->
-
-<!-- ========================================================= -->
+<!-- ===================== CONNECT ===================== -->
 
 # 🤝 Let's Connect
 
@@ -443,12 +508,12 @@ My contribution history transformed into an isometric 3D landscape.
 <img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-### ⭐ If you like my work, consider starring my repositories!
+⭐ **If you like my work, consider starring my repositories!**
 
-<br/>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:020617&height=160&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:020617&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
