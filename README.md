@@ -1,328 +1,454 @@
 <!-- ========================================================= -->
-<!--                    PROFILE HEADER                         -->
+
+<!--                    ABHISHEK | GITHUB                      -->
+
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=230&section=header&text=ABHISHEK&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+<!-- HERO -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+Node.js;Building+Real-World+Applications;Always+Learning+%7C+Always+Building" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,65:1E3A8A,100:2563EB&height=280&section=header&text=ABHISHEK&fontSize=72&fontColor=FFFFFF&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20REACT%20%E2%80%A2%20NODE.JS&descAlignY=55&descSize=19&animation=fadeIn"/>
 
-<br/>
-
-<a href="https://github.com/Abhii-22">
-<img src="https://img.shields.io/github/followers/Abhii-22?label=Followers&style=for-the-badge&logo=github&color=2563EB"/>
-</a>
-<a href="https://github.com/Abhii-22?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-28-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/Abhii-22">
-<img src="https://komarev.com/ghpvc/?username=Abhii-22&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+Node.js;Building+Real-World+Applications;Creating+Modern+UI%2FUX;Learning+%7C+Building+%7C+Improving" />
 
 <br/><br/>
 
-<!-- animated divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
+<a href="https://github.com/Abhii-22">
+<img src="https://img.shields.io/github/followers/Abhii-22?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563EB"/>
+</a>
+
+<a href="https://github.com/Abhii-22?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-28-1E3A8A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Abhii-22&style=for-the-badge&label=PROFILE+VIEWS&color=2563EB"/>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 </div>
 
+<!-- ========================================================= -->
+
+<!--                     ABOUT ME                              -->
+
+<!-- ========================================================= -->
+
+## 👋 About Me
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/Developer.gif"/>
+
+### Hi, I'm Abhishek 👨‍💻
+
+I'm a **Full Stack Developer** passionate about creating practical and user-friendly applications.
+
+I enjoy turning ideas into working products using modern web and mobile technologies.
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│       💡 IDEA                                │
+│          ↓                                   │
+│       🎨 DESIGN                              │
+│          ↓                                   │
+│       ⚛️ DEVELOP                             │
+│          ↓                                   │
+│       🧪 TEST                                │
+│          ↓                                   │
+│       🚀 DEPLOY                              │
+│          ↓                                   │
+│       🔁 IMPROVE                             │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+### ⚡ What I Enjoy
+
+* 🎨 Building modern interfaces
+* ⚛️ Creating React applications
+* ⚙️ Developing backend APIs
+* 📱 Building mobile applications
+* 🗄️ Working with databases
+* 🚀 Turning real problems into software
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<!-- ========================================================= -->
+
+<!--                     TECH STACK                            -->
+
+<!-- ========================================================= -->
+
+# 🛠️ Technology Universe
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css&perline=5"/>
+
+<br/><br/>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=5"/>
+
+<br/><br/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=5"/>
+
+<br/><br/>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=5"/>
+
+<br/><br/>
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&perline=5"/>
+
+</div>
+
+<!-- ========================================================= -->
+
+<!--                     WHAT I BUILD                          -->
+
+<!-- ========================================================= -->
+
+# 🚀 What I Build
+
+<div align="center">
+
+|         🧩 Area        | ⚡ What I Build                             |
+| :--------------------: | :----------------------------------------- |
+|     🎨 **Frontend**    | Interactive React applications             |
+|     ⚙️ **Backend**     | REST APIs & server-side systems            |
+|      📱 **Mobile**     | React Native applications                  |
+|    🗄️ **Database**    | MongoDB & MySQL systems                    |
+|  🔐 **Authentication** | Login & user management                    |
+| 📍 **Real-World Apps** | Attendance, sports & business applications |
+|       📊 **Data**      | Python, SQL & data engineering learning    |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<!-- ========================================================= -->
+
+<!--                  FEATURED PROJECTS                        -->
+
+<!-- ========================================================= -->
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### 🐾 PET ADOPTION
+
+<a href="https://github.com/Abhii-22/animaladopt">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhii-22&repo=animaladopt&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA"/>
+
+</a>
+
+**MERN • REST API • MongoDB • Responsive UI**
+
+Pet adoption platform with listings, searching, filtering and user functionality.
+
 <br/>
 
-## 👋 Hello, I'm Abhishek
+---
 
-I'm a **Full Stack Developer** who enjoys building practical, scalable and user-friendly applications.
+### ⚽ AK SPORTS
 
-I work mainly with **React, JavaScript, Node.js and MongoDB**, and I'm continuously expanding my knowledge across frontend, backend and data technologies.
+<a href="https://github.com/Abhii-22/ak">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhii-22&repo=ak&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA"/>
+
+</a>
+
+**React • Node.js • MongoDB • Mobile**
+
+Sports management application focused on players, events and sports functionality.
+
+<br/>
+
+---
+
+### 🏠 PG FINDER
+
+<a href="https://github.com/Abhii-22/PGweb">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhii-22&repo=PGweb&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA"/>
+
+</a>
+
+**React • JavaScript • CSS**
+
+Accommodation search platform with filtering and responsive UI.
+
+<br/>
+
+---
+
+### 📍 EMPLOYEE ATTENDANCE
+
+**React Native • Expo • Location • Camera • Database**
+
+A real-world attendance application with:
+
+```text
+📍 Location Verification
+        ↓
+📸 Selfie Capture
+        ↓
+🟢 Punch In
+        ↓
+☕ Lunch Break
+        ↓
+🔴 Punch Out
+        ↓
+📊 Attendance History
+        ↓
+👨‍💼 Admin Management
+```
+
+Features include multiple office/college locations, selfie attendance,
+working-hour calculation and admin inspection.
+
+<br/>
+
+---
+
+### 💼 DEVELOPER PORTFOLIO
+
+<a href="https://github.com/Abhii-22/portfolio">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhii-22&repo=portfolio&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA"/>
+
+</a>
+
+**React • TypeScript • Advanced UI/UX**
+
+Interactive portfolio focused on modern design, animation and project presentation.
+
+</div>
+
+<!-- ========================================================= -->
+
+<!--                  PROJECT PIPELINE                         -->
+
+<!-- ========================================================= -->
+
+# 🧠 My Development Pipeline
 
 <div align="center">
 
 ```text
-💻 Build  →  🧠 Learn  →  🚀 Improve  →  🔁 Repeat
+                    ┌───────────────┐
+                    │      💡       │
+                    │     IDEA      │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │      🎨       │
+                    │     UI/UX     │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │      ⚛️       │
+                    │   FRONTEND    │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │      ⚙️       │
+                    │    BACKEND    │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │      🗄️       │
+                    │   DATABASE    │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │      🚀       │
+                    │    DEPLOY     │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │      🔁       │
+                    │   IMPROVE     │
+                    └───────────────┘
+
 ```
 
 </div>
 
-> Good software isn't just code — it's something people actually enjoy using.
+<!-- ========================================================= -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
+<!--                    GITHUB ANALYTICS                       -->
 
-## 🚀 What I Do
+<!-- ========================================================= -->
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Frontend Development
-- React applications
-- Responsive UI/UX
-- Modern JavaScript
-- Component-based architecture
-- API integration
-- Mobile-friendly interfaces
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Backend Development
-- Node.js
-- REST APIs
-- MongoDB
-- Authentication
-- Database integration
-- Server-side application logic
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### 📱 Application Development
-- Web applications
-- Mobile applications
-- Attendance systems
-- Business applications
-- Sports applications
-
-</td>
-<td valign="top">
-
-### 📊 Data & Learning
-- Python
-- SQL
-- Data Engineering
-- Data Analysis
-- Problem solving
-- Continuous learning
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
-
-## 🛠️ Tech Stack
+# 📊 GitHub Analytics
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abhii-22&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1" height="190"/>
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii-22&layout=compact&hide_border=true&theme=transparent&title_color=60A5FA&text_color=CBD5E1" height="190"/>
 
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<br/><br/>
 
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://streak-stats.demolab.com?user=Abhii-22&theme=transparent&hide_border=true&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8" width="700"/>
 
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhii-22&bg_color=00000000&color=60A5FA&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## 🚀 Featured Projects
+<!-- ========================================================= -->
 
-<div align="center">
+<!--                  3D CONTRIBUTIONS                         -->
 
-| Project | Description | Technology |
-|---|---|---|
-| 🐾 **Pet Adoption** | Pet adoption platform | React • Node • MongoDB |
-| ⚽ **Sports Platform** | Sports management application | React • Node • MongoDB |
-| 🏠 **PG Finder** | PG search and filtering platform | React • JavaScript |
-| 💼 **Developer Portfolio** | Personal developer portfolio | React • TypeScript |
-| 📍 **Employee Attendance** | Location & selfie based attendance system | React Native • Expo |
-| 🤖 **AI Interview Platform** | AI-powered interview experience | React • AI |
+<!-- ========================================================= -->
 
-</div>
-
-<details>
-<summary><b>🐾 Pet Adoption Platform</b> — click to expand</summary>
-<br/>
-
-A MERN-based platform designed to help users discover and adopt pets.
-
-**Features:** Pet listings • Search & filtering • User functionality • Responsive interface • API integration • MongoDB database
-
-**Tech:** `React` `Node.js` `MongoDB`
-
-🔗 [Repository](https://github.com/Abhii-22/animaladopt)
-
-</details>
-
-<details>
-<summary><b>⚽ Sports Management Platform</b> — click to expand</summary>
-<br/>
-
-A sports-focused application designed around managing sports activities and users.
-
-**Features:** Sports management • Player management • Events • Score-related functionality • User functionality • Mobile-friendly experience
-
-**Tech:** `React` `Node.js` `MongoDB`
-
-🔗 [Repository](https://github.com/Abhii-22/ak)
-
-</details>
-
-<details>
-<summary><b>🏠 PG Finder</b> — click to expand</summary>
-<br/>
-
-A property/PG search application that helps users find accommodation based on their requirements.
-
-**Features:** Location filtering • Price filtering • Amenities • Search • Responsive UI
-
-**Tech:** `React` `JavaScript` `CSS`
-
-🔗 [Repository](https://github.com/Abhii-22/PGweb)
-
-</details>
-
-<details>
-<summary><b>📍 Employee Attendance System</b> — click to expand</summary>
-<br/>
-
-A real-world employee attendance application focused on secure attendance tracking.
-
-**Features:** Location verification • Selfie-based attendance • Punch In/Out • Lunch break deduction • Attendance history • Admin management • Multiple office/college locations
-
-**Tech:** `React Native` `Expo` `Node.js` `Database`
-
-> 🚧 Repository link will be added when finalized.
-
-</details>
-
-<details>
-<summary><b>💼 Developer Portfolio</b> — click to expand</summary>
-<br/>
-
-A modern portfolio website designed to showcase my skills, experience and projects.
-
-**Focus:** Modern UI/UX • Interactive design • Responsive layout • Project showcase • Professional presentation
-
-**Tech:** `React` `TypeScript`
-
-🔗 [Repository](https://github.com/Abhii-22/portfolio)
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abhii-22&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=2563EB&icon_color=2563EB&text_color=FFFFFF" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii-22&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=FFFFFF" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Abhii-22&theme=transparent&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" width="700"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhii-22&bg_color=00000000&color=2563EB&line=2563EB&point=1D4ED8&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
-
-## 🧊 3D Contribution Calendar
+# 🧊 3D Contribution Universe
 
 <div align="center">
 
 <!--START_YOSHI389111_3D_CONTRIB-->
+
 <!--END_YOSHI389111_3D_CONTRIB-->
 
 </div>
 
-> This animated isometric calendar is generated automatically by a GitHub Action (see setup notes below) — it isn't a static image, it's rebuilt from your real commit history daily.
+<p align="center">
 
-## 🐍 Contribution Snake
+<i>
+My contribution history transformed into an isometric 3D landscape.
+</i>
+
+</p>
+
+<!-- ========================================================= -->
+
+<!--                     SNAKE                                  -->
+
+<!-- ========================================================= -->
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<!-- github-snake -->
 <img src="https://raw.githubusercontent.com/Abhii-22/Abhii-22/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
+<!-- ========================================================= -->
 
-## 🏆 Achievements
+<!--                     TROPHIES                              -->
+
+<!-- ========================================================= -->
+
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhii-22&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Abhii-22&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=2&column=4" width="100%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
+<!-- ========================================================= -->
 
-## 🎯 Current Focus & Learning
+<!--                     CURRENT FOCUS                         -->
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<!-- ========================================================= -->
 
-**Building**
-- ⚛️ Advanced React
-- 🟢 Node.js & Backend Development
-- 🚀 Real-World Projects
-
-</td>
-<td width="50%" valign="top">
-
-**Learning**
-- 🐍 Python
-- 🗄️ SQL & Databases
-- 📊 Data Engineering
-- 🧩 System Design
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
-
-## 💡 Developer Philosophy
+# 🎯 Current Focus
 
 <div align="center">
+
+|     🔨 BUILDING     |  📚 LEARNING  |     🚀 EXPLORING     |
+| :-----------------: | :-----------: | :------------------: |
+|      React Apps     |     Python    |     System Design    |
+|     Node.js APIs    |      SQL      |   Data Engineering   |
+|     Mobile Apps     | Data Analysis |     Better UI/UX     |
+| Real-World Projects |    Backend    | Advanced Development |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```text
+██████████████████████████████████████████████████
+█                                                █
+█        BUILD  •  LEARN  •  CREATE  •  GROW     █
+█                                                █
+██████████████████████████████████████████████████
+```
+
+</div>
+
+<!-- ========================================================= -->
+
+<!--                  DEVELOPER PHILOSOPHY                     -->
+
+<!-- ========================================================= -->
+
+# 💡 Developer Philosophy
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1800&color=60A5FA&center=true&vCenter=true&width=800&lines=Don't+just+write+code.;Build+something+useful.;Solve+real+problems.;Keep+learning.;Keep+building."/>
+
+<br/><br/>
 
 > **"Don't just write code. Build something useful."**
 
-I believe every project is an opportunity to learn something new, solve a real problem and become a better developer.
-
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
+<!-- ========================================================= -->
 
-## 🤝 Let's Connect
+<!--                    CONNECT                                -->
+
+<!-- ========================================================= -->
+
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
+
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 ### ⭐ If you like my work, consider starring my repositories!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:020617&height=160&section=footer&animation=fadeIn"/>
 
 </div>
