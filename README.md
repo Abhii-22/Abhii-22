@@ -424,12 +424,12 @@ Real-world employee attendance application.
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://www.linkedin.com/in/abhishek-eb/"/>
+<a href="https://www.linkedin.com/in/abhishek-eb/">
+<img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://portfolio-eight-sigma-6a55neejd1.vercel.app/"/>
+<a href="https://portfolio-eight-sigma-6a55neejd1.vercel.app/">
+<img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
