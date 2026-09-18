@@ -183,91 +183,93 @@ and data technologies.
 
 # 🚀 Featured Projects
 
+<table width="100%">
+
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🐾 Pet Adoption
+
+<a href="https://github.com/Abhii-22/animaladopt">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhii-22&repo=animaladopt&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA"/>
+</a>
+
+`MERN` `REST API` `MongoDB`
+
+Pet adoption platform to help users discover and adopt pets — listings, search and filtering.
+
+<a href="https://github.com/Abhii-22/animaladopt">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### ⚽ AK Sports
+
+<a href="https://github.com/Abhii-22/ak">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhii-22&repo=ak&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA"/>
+</a>
+
+`React` `Node.js` `MongoDB`
+
+Sports management app covering players, events, scores and team functionality.
+
+<a href="https://github.com/Abhii-22/ak">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🏠 PG Finder
+
+<a href="https://github.com/Abhii-22/PGweb">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhii-22&repo=PGweb&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA"/>
+</a>
+
+`React` `JavaScript` `CSS`
+
+Accommodation search platform with location filters, price filters and amenity search.
+
+<a href="https://github.com/Abhii-22/PGweb">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 💼 Developer Portfolio
+
+<a href="https://github.com/Abhii-22/portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhii-22&repo=portfolio&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA"/>
+</a>
+
+`React` `TypeScript` `Advanced UI/UX`
+
+Modern portfolio focused on interactive design, animation and project presentation.
+
+<a href="https://github.com/Abhii-22/portfolio">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+</table>
+
+<br>
+
 <div align="center">
 
-## 🐾 PET ADOPTION
-
-<a href="https://github.com/Abhii-22/animaladopt">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhii-22&repo=animaladopt&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA"/>
-
-</a>
-
-### MERN • REST API • MongoDB
-
-Pet adoption platform designed to help users discover and adopt pets.
-
-**Features**
-
-`Pet Listings` `Search` `Filtering` `User Functions` `API Integration`
-
-<br>
-
-<a href="https://github.com/Abhii-22/animaladopt">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br><br>
-
----
-
-## ⚽ AK SPORTS
-
-<a href="https://github.com/Abhii-22/ak">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhii-22&repo=ak&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA"/>
-
-</a>
-
-### React • Node.js • MongoDB
-
-Sports management application focused on players, events and sports functionality.
-
-**Features**
-
-`Player Management` `Events` `Sports Management` `Score Functionality`
-
-<br>
-
-<a href="https://github.com/Abhii-22/ak">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br><br>
-
----
-
-## 🏠 PG FINDER
-
-<a href="https://github.com/Abhii-22/PGweb">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhii-22&repo=PGweb&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA"/>
-
-</a>
-
-### React • JavaScript • CSS
-
-Accommodation search platform designed to help users find suitable PGs.
-
-**Features**
-
-`Search` `Location Filter` `Price Filter` `Amenities` `Responsive UI`
-
-<br>
-
-<a href="https://github.com/Abhii-22/PGweb">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br><br>
-
----
-
-## 📍 EMPLOYEE ATTENDANCE
+### 📍 Employee Attendance
 
 <img src="https://skillicons.dev/icons?i=react,nodejs"/>
 
-### React Native • Expo • Location • Camera
+**React Native • Expo • Location • Camera**
 
 Real-world employee attendance application.
 
@@ -303,32 +305,8 @@ Real-world employee attendance application.
 └──────────────────────────────┘
 ```
 
-**Features**
-
 `Location Verification` `Selfie Attendance` `Punch In/Out`
 `Lunch Deduction` `Multiple Locations` `Admin Management`
-
-<br><br><br>
-
----
-
-## 💼 DEVELOPER PORTFOLIO
-
-<a href="https://github.com/Abhii-22/portfolio">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhii-22&repo=portfolio&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA"/>
-
-</a>
-
-### React • TypeScript • Advanced UI/UX
-
-Modern portfolio focused on interactive design, animations and project presentation.
-
-<br>
-
-<a href="https://github.com/Abhii-22/portfolio">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </div>
 
@@ -364,17 +342,17 @@ Modern portfolio focused on interactive design, animations and project presentat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhii-22&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abhii-22&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii-22&layout=compact&hide_border=true&theme=transparent&title_color=60A5FA&text_color=CBD5E1" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Abhii-22&theme=transparent&hide_border=true&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8" width="700"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii-22&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1" height="180"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhii-22&bg_color=00000000&color=60A5FA&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Abhii-22&theme=dark&hide_border=true&background=0D1117&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8" width="700"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhii-22&bg_color=0D1117&color=60A5FA&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -398,7 +376,7 @@ Modern portfolio focused on interactive design, animations and project presentat
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhii-22&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Abhii-22&theme=algolia&no-frame=true&margin-w=10&row=2&column=4" width="100%"/>
 
 </div>
 
@@ -413,59 +391,17 @@ Modern portfolio focused on interactive design, animations and project presentat
 <table width="90%">
 
 <tr>
-
-<td align="center">
-⚛️
-<br>
-<b>Advanced React</b>
-</td>
-
-<td align="center">
-🟢
-<br>
-<b>Node.js</b>
-</td>
-
-<td align="center">
-📱
-<br>
-<b>React Native</b>
-</td>
-
-<td align="center">
-🚀
-<br>
-<b>Real Projects</b>
-</td>
-
+<td align="center">⚛️<br><b>Advanced React</b></td>
+<td align="center">🟢<br><b>Node.js</b></td>
+<td align="center">📱<br><b>React Native</b></td>
+<td align="center">🚀<br><b>Real Projects</b></td>
 </tr>
 
 <tr>
-
-<td align="center">
-🐍
-<br>
-<b>Python</b>
-</td>
-
-<td align="center">
-🗄️
-<br>
-<b>SQL</b>
-</td>
-
-<td align="center">
-📊
-<br>
-<b>Data Engineering</b>
-</td>
-
-<td align="center">
-🧩
-<br>
-<b>System Design</b>
-</td>
-
+<td align="center">🐍<br><b>Python</b></td>
+<td align="center">🗄️<br><b>SQL</b></td>
+<td align="center">📊<br><b>Data Engineering</b></td>
+<td align="center">🧩<br><b>System Design</b></td>
 </tr>
 
 </table>
